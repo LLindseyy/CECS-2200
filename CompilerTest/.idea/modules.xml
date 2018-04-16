@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TEST with Sebi.iml" filepath="$PROJECT_DIR$/.idea/TEST with Sebi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CompilerTest.iml" filepath="$PROJECT_DIR$/.idea/CompilerTest.iml" />
     </modules>
   </component>
 </project>
