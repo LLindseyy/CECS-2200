@@ -10,5 +10,5 @@ int main() {
     cin >> width;
     cin >> length;
     area = width * length;
-    cout << "El area es" << area << endl;
+    cout << "El area es " << area << endl;
 } //end main

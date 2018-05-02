@@ -16,3 +16,4 @@ int main() {
     promedio = suma/5.0;
     cout << "El promedio es" << promedio << endl;
 } //end main
+
