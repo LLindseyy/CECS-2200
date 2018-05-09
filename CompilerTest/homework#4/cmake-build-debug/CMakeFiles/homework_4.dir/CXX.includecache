@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/goddesslindsey/Documents/GitHub/CECS-2200/CompilerTest/homework#4/main.cpp
+iostream
+-
+iomanip
+-
+cmath
+-
+
