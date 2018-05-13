@@ -1,47 +1,54 @@
 #include <iostream>
 #include <iomanip>
-#include <cmath>
-
 using namespace:: std;
 
 int main() {
+    int choice;
 
-    const int quantity = 703;
-    double weight;
+    const int
+            air = 1,
+            water = 2,
+            steel = 3,
+            aird = 1100,
+            waterd = 4900,
+            steeld = 16400;
 
-    int feet,
-            inches;
+    double
+            time,
+            distance;
 
-    double bmi,
-            totalinches,
-            inchconversion;
+    cout << "\t\tchoose what you want to calculate\n\n"
+         << "1.air\n"
+         << "2.water\n"
+         << "3.steel\n"
+         << "enter your choice: ";
+    cin >> choice;
 
-    cout << "Please enter weight: ";
-    cin >> weight;
+    cout << fixed << showpoint << setprecision(4);
 
-    cout << "Please enter feet: ";
-    cin >> feet;
+    if (choice == air) {
+        cout << "enter your distance: ";
+        cin >> distance;
 
-    cout << "Please enter your remaining inches: ";
-    cin >> inches;
+        time = distance / aird;
 
-    inchconversion = feet * 12;
+        cout << "your travel time for air is: " << time << endl;
+    } else if (choice == water) {
+        cout << "enter your distance: ";
+        cin >> distance;
 
-    totalinches = inchconversion + inches;
+        time = distance / waterd;
 
-    bmi = weight * quantity / (pow(totalinches, 2.0));
+        cout << "your travel time for water is: " << time << endl;
+    } else if (choice == steel) {
+        cout << "enter your distance: ";
+        cin >> distance;
 
-    cout << setprecision(2) << fixed;
+        time = distance / steeld;
 
-    cout << "your bmi is: " << bmi;
-
-    if (bmi < 18.5) {
-
-        cout << "you are underweight";
-    } else if (bmi >= 18.5 <= 25) {
-
-        cout << "your bmi is well balanced";
+        cout << "your travel time for steal is: " << time << endl;
     } else {
-        cout << "you are overweight";
+        cout << "the valid options are between 1-3, "
+             << "restart program and choose the available options."
     }
-} //int main end
+}//int main end
