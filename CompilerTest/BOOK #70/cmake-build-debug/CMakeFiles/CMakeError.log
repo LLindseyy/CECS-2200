@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/goddesslindsey/Documents/GitHub/CECS-2200/CompilerTest/BOOK #70/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_77818/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_77818.dir/build.make CMakeFiles/cmTC_77818.dir/build
+make[1]: *** No rule to make target `/Users/goddesslindsey/Documents/GitHub/CECS-2200/CompilerTest/BOOK\', needed by `CMakeFiles/cmTC_77818.dir/feature_tests.c.o'.  Stop.
+make: *** [cmTC_77818/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/goddesslindsey/Documents/GitHub/CECS-2200/CompilerTest/BOOK #70/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f6996/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_f6996.dir/build.make CMakeFiles/cmTC_f6996.dir/build
+make[1]: *** No rule to make target `/Users/goddesslindsey/Documents/GitHub/CECS-2200/CompilerTest/BOOK\', needed by `CMakeFiles/cmTC_f6996.dir/feature_tests.cxx.o'.  Stop.
+make: *** [cmTC_f6996/fast] Error 2
+
+
+
