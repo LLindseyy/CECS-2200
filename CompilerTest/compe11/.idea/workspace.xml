@@ -11,13 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="093d8ce5-8e6c-46bb-9ec0-b4c7014086d9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HOMEWORK 4.44/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK 4.44/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework 444/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework 444/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="093d8ce5-8e6c-46bb-9ec0-b4c7014086d9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -103,23 +97,30 @@
       <option name="presentableId" value="Default" />
       <updated>1527112516750</updated>
       <workItem from="1527112518086" duration="463000" />
-      <workItem from="1527113053154" duration="1484000" />
+      <workItem from="1527113053154" duration="1600000" />
     </task>
+    <task id="LOCAL-00001" summary="Hours worked">
+      <created>1527114857178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527114857178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1947000" />
+    <option name="totallyTimeSpent" value="2063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="43" width="1440" height="792" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" weight="0.32729805" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32729805" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32729805" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -136,6 +137,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hours worked" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hours worked" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.cpp">
