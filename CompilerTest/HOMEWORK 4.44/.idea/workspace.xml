@@ -12,10 +12,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a5180c3-5d9c-41e2-ad37-871ee11a598e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../CLASS 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lauren 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lauren 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework 444/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework 444/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework#4/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../homework#4/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,11 +105,15 @@
       <workItem from="1525887654023" duration="1149000" />
       <workItem from="1525888823913" duration="4000" />
       <workItem from="1526153519039" duration="1599000" />
+      <workItem from="1526397867479" duration="159000" />
+      <workItem from="1527028092019" duration="598000" />
+      <workItem from="1527111344645" duration="13000" />
+      <workItem from="1527111652059" duration="188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2752000" />
+    <option name="totallyTimeSpent" value="3710000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="43" width="1440" height="792" extended-state="0" />
@@ -137,6 +142,46 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
