@@ -12,11 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="241c9cd2-9ddf-4476-8a16-1aeccd0640c6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK 4.4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HOMEWORK 4.44/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HOMEWORK 4.44/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework#4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMPE 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COMPE 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMPE 11/cmake-build-debug/CMakeFiles/COMPE_11.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../COMPE 11/cmake-build-debug/CMakeFiles/COMPE_11.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMPE 11/cmake-build-debug/COMPE_11" beforeDir="false" afterPath="$PROJECT_DIR$/../COMPE 11/cmake-build-debug/COMPE_11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMPE 11/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../COMPE 11/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compe11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../compe11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compe11/cmake-build-debug/CMakeFiles/compe11.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../compe11/cmake-build-debug/CMakeFiles/compe11.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compe11/cmake-build-debug/compe11" beforeDir="false" afterPath="$PROJECT_DIR$/../compe11/cmake-build-debug/compe11" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compe11/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../compe11/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +36,8 @@
       <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+            <state relative-caret-position="484">
+              <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -62,8 +66,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -104,6 +108,7 @@
       <workItem from="1526320551200" duration="158000" />
       <workItem from="1527111362803" duration="122000" />
       <workItem from="1527111638368" duration="2000" />
+      <workItem from="1527201420611" duration="566000" />
     </task>
     <task id="LOCAL-00001" summary="abc choice">
       <created>1526181216605</created>
@@ -116,10 +121,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2689000" />
+    <option name="totallyTimeSpent" value="3255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="71" y="46" width="1199" height="792" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16597164" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -135,10 +141,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32729805" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32729805" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -166,14 +172,21 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="41" column="47" lean-forward="true" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
         </state>
       </provider>
     </entry>

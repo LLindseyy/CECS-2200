@@ -39,7 +39,7 @@ int main() {
             break;
         case water:
             times=distance/waterd;
-            cout<<"your travel time for water is: "<<time<<endl;
+            cout<<"Suck my Dick: "<<time<<endl;
             break;
         case steel:
             times=distance/steeld;
