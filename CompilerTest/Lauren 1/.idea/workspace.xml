@@ -92,11 +92,12 @@
       <workItem from="1525382883043" duration="758000" />
       <workItem from="1525887393615" duration="4000" />
       <workItem from="1525887423162" duration="2000" />
+      <workItem from="1528204317254" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="764000" />
+    <option name="totallyTimeSpent" value="767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="43" width="1440" height="792" extended-state="0" />
@@ -125,6 +126,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">

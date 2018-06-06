@@ -12,7 +12,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f65e33b-20da-446c-87e2-c44fd8d32bf0" name="Default" comment="Pokemon">
-      <change beforePath="$PROJECT_DIR$/../CLASS13_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS13_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23__/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../23__/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23__/cmake-build-debug/23__" beforeDir="false" afterPath="$PROJECT_DIR$/../23__/cmake-build-debug/23__" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23__/cmake-build-debug/CMakeFiles/23__.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../23__/cmake-build-debug/CMakeFiles/23__.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23__/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../23__/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../40/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../41/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../41/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOK #70/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS .3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS .3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 0.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 0.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 0.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 0.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 4.4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 4.4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 6.6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 6.6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS 6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS 6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS13_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS13_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS44/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS44/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS_12_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS_12_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS_12_3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS_12_3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CLASS_14_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CLASS_14_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../COMPE 11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../COMPE 11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class 0/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Class 0/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lauren 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lauren 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class 501/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../class 501/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../class4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../compe11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../compe11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw 44/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hw 44/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,6 +128,7 @@
       <workItem from="1527542332873" duration="157000" />
       <workItem from="1527709552218" duration="16000" />
       <workItem from="1528144838632" duration="32000" />
+      <workItem from="1528222648680" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="Pokemon">
       <created>1527542365207</created>
@@ -114,7 +141,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="431000" />
+    <option name="totallyTimeSpent" value="432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="792" extended-state="0" />
@@ -148,6 +175,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="Pokemon" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">

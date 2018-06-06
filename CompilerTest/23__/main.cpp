@@ -18,9 +18,9 @@ int main() {
     cout<<"Enter the character:"<<endl;
     cin>>character_e;
 
-    for (i=0;i<Row;i++){
+    for (i=0;i>Row;i++){
 
-        for (j=0;j<i;j++){
+        for (j=0;j<Row-i;j++){
 
             cout<<"*";
         }
